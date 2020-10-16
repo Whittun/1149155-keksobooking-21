@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Шпанов](https://up.htmlacademy.ru/javascript/21/user/1149155).
-* Наставник: `Неизвестно`.
+* Наставник: [Кекс](https://htmlacademy.ru).
 
 ---
 
